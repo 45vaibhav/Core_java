@@ -1,4 +1,4 @@
-
+//abstrat class
 	abstract class parent{
 		abstract void fun();
 
@@ -16,3 +16,7 @@
 				}
 			}
 	
+
+	/*
+	Hello
+	*/
