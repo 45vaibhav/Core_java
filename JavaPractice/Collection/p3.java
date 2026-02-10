@@ -8,3 +8,8 @@ import java.util.*;
 		System.out.println(al);
 		}
 	}
+
+
+/*
+[10, 20, 30]
+*/
