@@ -8,3 +8,9 @@ class Demo{
 		
 	}	
 }
+
+
+
+
+
+	// Generics cant store different datatypes values

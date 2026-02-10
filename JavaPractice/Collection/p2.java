@@ -8,3 +8,7 @@
 			System.out.println(al);
 		}
 	}
+
+	/*
+	[10, 20, 10.6]
+	*/
