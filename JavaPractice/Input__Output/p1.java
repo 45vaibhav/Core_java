@@ -11,3 +11,9 @@ class p1{
 	
 
 	}
+
+/*
+Enter the value
+44
+Output is :44
+*/
