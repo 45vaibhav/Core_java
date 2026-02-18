@@ -66,6 +66,18 @@ class Main{
 
 	}
 
+/*
+Shubham
+the employee count is 1000 the company name is :capg
+the employee count after one year is 5000
+-------------------------------------------
+Rajat
+the employee count is 500 the company name is :coditas
+-------------------------------------------
+Rajat
+the employee count is 11000 the company name is :TCS
+*/
+
 
 
 
