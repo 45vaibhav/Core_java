@@ -1,3 +1,5 @@
+
+// we converted int to String and check
 class p11{
     public static void main(String args[]){
         int n=100;
